@@ -22,6 +22,9 @@ function BankPopup({ bank }) {
       <p className="text-sm">
         <b>District:</b> {bank.district}
       </p>
+      <p className="text-sm">
+        <b>State:</b> {bank.state}
+      </p>
     </div>
   );
 }
