@@ -15,7 +15,7 @@ function Header() {
         {/* TITLE */}
         <div>
           <h1 className="text-white text-sm sm:text-2xl font-bold tracking-wide">
-            Bank Information GIS
+            Banks GIS
           </h1>
 
           <p className="text-indigo-200 text-[10px] sm:text-sm">
